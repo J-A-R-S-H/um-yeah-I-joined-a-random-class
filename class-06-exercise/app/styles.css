@@ -1,0 +1,14 @@
+main {
+    background-color: floralwhite;
+    height: 100vh;
+    
+}
+
+.flexbox-display {
+    padding: 5rem;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    background: salmon;
+    width: 30rem;
+}
