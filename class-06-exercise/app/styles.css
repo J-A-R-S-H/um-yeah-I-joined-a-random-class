@@ -9,6 +9,18 @@ main {
     display: flex;
     align-items: center ;
     justify-content: center;
-    background: salmon;
+    background-color: salmon;
     width: 30rem;
+}
+
+.flexbox-gallery {
+    margin-top: 1rem;
+    display: flex; padding: 2rem;
+    width: 40rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+        background-color: salmon;
+    justify-content: center;
+    align-items: center;
+
 }
